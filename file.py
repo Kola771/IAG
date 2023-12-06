@@ -21,4 +21,5 @@ completion = openai.ChatCompletion.create(
   stop=None
 )
 
+# Affichage de la réponse du chat
 print(completion.choices[0].message.content)
