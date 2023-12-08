@@ -1,0 +1,34 @@
+Qu’est-ce que l’électricité « verte » ?
+Le terme électricité « verte » désigne l’électricité produite uniquement à partir de sources d’énergies renouvelables telles que l’énergie hydraulique (barrages), éolienne, solaire, géothermique, houlomotrice et marémotrice ou encore l’énergie issue de la biomasse (bois, gaz de décharge, gaz de stations d’épuration d’eaux usées, biogaz…).
+Une offre de fourniture d’électricité est dite « verte » si le fournisseur peut garantir qu’une quantité d’électricité d’origine renouvelable équivalente à la consommation des clients de cette offre a été injectée sur le réseau. Pour prouver qu’une quantité équivalente d’électricité verte a été injectée sur le réseau, seules les Garanties d’Origine (GO) ont valeur de certification.
+Les Garanties d’Origine assurent, au niveau européen, la traçabilité administrative de l’électricité verte. Ce sont des certificats électroniques délivrés aux producteurs proportionnellement à la quantité d’électricité produite à partir de sources d’énergies renouvelables.
+IMPORTANT : Les Garanties d’Origine peuvent être échangées indépendamment de l’électricité qu’elles certifient.
+ A NOTER : Il ne faut pas confondre les offres de fourniture d’électricité « verte », dont il est question ici, avec la production d’électricité « verte » qui consiste, pour un consommateur, à devenir producteur d’électricité à partir, par exemple, d’une petite éolienne ou de panneaux solaires photovoltaïques installés chez lui et à consommer cette électricité (autoconsommation) et/ou à la revendre à un fournisseur.
+
+Qui propose des offres d’électricité « verte » ?
+Presque tous les fournisseurs d’électricité proposent des offres « vertes », certifiées par des garanties d’origine.
+En plus de cette certification par les garanties d’origine, l’ADEME, agence de la transition énergétique, a décidé d’attribuer un label en fonction de l’engagement des fournisseurs d’énergie à rémunérer des producteurs d’énergies renouvelables en France. Ce nouveau label est appelé Vert Volt.
+Le label VertVolt est attribué aux offres des fournisseurs, avec deux niveaux possibles d’engagement :
+* Le niveau 1 (engagé) : le fournisseur achète une quantité d’électricité   équivalente à celle qu’il me vend, à des producteurs d’énergies renouvelables en France, en plus des certificats « garantie d’origine » ;
+* Le niveau 2 (très engagé) : le fournisseur d’énergie achète autant d’énergie renouvelable en France qu’il me vend d’électricité et au moins 25 % de cette électricité provient d’installations récentes mises en place par des collectivités territoriales avec une gouvernance partagée ou par d’autres acteurs mais sans soutien public.
+Pour savoir si une offre est verte, ses caractéristiques et si elle a obtenu le label VertVolt :
+* Je consulte les conditions générales de vente du contrat,
+* j’utilise le comparateur énergie-info du médiateur : https://comparateur.energie-info.fr,
+* ou je consulte la page : https://agirpourlatransition.ademe.fr/particuliers/vertvolt.
+Dans le comparateur énergie-info, les fournisseurs doivent préciser :
+* Le pays des Garanties d’Origine : France ou autres pays européens
+* Source de production des Garanties d’Origine : hydraulique, éolien, photovoltaïque…
+* La part d’achat conjoint de l’électricité produite en France et des garanties d’origine
+* La part d’électricité verte d’installations postérieures à 2015 et avec gouvernance locale ou sans soutien public
+* L’obtention de label VertVolt de l’ADEME : niveau engagé ou très engagé
+Si je souscris une offre verte, est-ce que je vais recevoir chez moi de l’électricité « verte » ?
+Il est physiquement impossible de déterminer la provenance de l’électricité livrée à un client donné. C’est la même électricité qui est livrée à tous les clients raccordés au réseau électrique français, quels que soient le fournisseur et le type d’offre.
+L’électricité consommée en tout point du réseau français contient donc le même pourcentage d’électricité d’origine renouvelable. En 2019, l’électricité verte couvre 27 % de la consommation totale d’électricité en France (Source : Panorama de l’électricité renouvelable au 31 décembre 2020 – RTE).
+La répartition des sources de production d’électricité des offres que mon fournisseur a commercialisées au cours de l’année précédente et, en particulier, la part d’électricité d’origine renouvelable est indiquée sur ma facture.
+Est-ce que je contribue au développement des énergies renouvelables en souscrivant à une offre d’électricité « verte » ?
+La production d’électricité d’origine renouvelable est en général, pour l’instant, plus coûteuse que la production d’électricité d’origine fossile ou nucléaire.
+Mais le coût est très variable car il dépend de l’installation de production : il est plus élevé pour les installations de production telles que les panneaux photovoltaïques ou les éoliennes, il est en revanche faible pour la plupart des barrages hydrauliques anciens dont le coût de construction est amorti.
+Souscrire une offre « verte » constitue un message en faveur de la transition énergétique.
+Le soutien effectif d’une offre « verte » au développement des énergies renouvelables dépend de sa nature et également du pays et de la source de production dont sont issues les garanties d’origine.
+Quelle que soit mon offre d’électricité, je contribue au développement des capacités de production d’électricité d’origine renouvelable au travers de taxes appliquées sur les énergies fossiles, les taxes intérieures de consommation sur les produits énergétiques (TICPE) et le charbon (TICC). En effet, une partie des recettes de ces taxes alimente, depuis février 2017, un compte d’affectation spéciale (CAS) « Transition énergétique » qui finance le soutien aux énergies renouvelables.
+

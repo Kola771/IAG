@@ -1,0 +1,23 @@
+Qu’est-ce que l’autoconsommation ?
+L’autoconsommation, c’est lorsque je consomme l’électricité que je produis. C’est un bon moyen d’être sûr d’utiliser de l’électricité verte. Je peux produire mon électricité grâce à des panneaux solaires installés sur mon toit par exemple. On appelle cela des installations photovoltaïques. Je peux aussi décider d’installer ce matériel et de vendre intégralement ma production à un fournisseur d’électricité.
+Quelles sont les étapes pour préparer mon projet ?
+1. Je dois estimer la quantité d’électricité que je vais produire et la comparer à ma consommation réelle.
+Il existe plusieurs sites internet gérés par des associations telles que Hespul ou des organismes publics comme l’ADEME ou les espaces FAIRE qui permettent de faire des simulations. Je peux ensuite comparer les résultats obtenus à ma consommation indiquée sur mes factures.
+ATTENTION : Selon les années et la rudesse de l’hiver, surtout si mon chauffage est électrique, ma consommation peut varier. je dois donc regarder mes factures sur plusieurs années. Et je prends en compte que ma production d’électricité sera plus importante en été, et non en hiver quand mon chauffage électrique fonctionne.
+2. J’étudie les différentes offres d’autoconsommation proposées
+Une fois que je connais mes besoins et une estimation de ce que je pourrais produire, je compare les offres des différents prestataires en demandant des devis, sans m’engager. Pour cela, je regarde la puissance, le coût des panneaux, de leur installation et de leur entretien. Certains prestataires déduisent directement des devis les aides financières distribuées par l’État. Je vérifie que mon projet est bien éligible à ces aides et leurs montants sur le site www.photovoltaique.info.
+3. Je contacte le gestionnaire de réseau et ma collectivité
+Avec l’autoconsommation, il n’est pas possible de produire à tout moment la quantité d’électricité dont j’ai besoin. Par exemple la nuit ou l’hiver, je produis moins que ce que je consomme car mes besoins peuvent être plus importants.
+A l’inverse, par moment, je produis plus d’électricité que nécessaire. Il faut alors l’injecter sur le réseau car pour l’instant, stocker l’électricité produite coûte très cher, notamment pour les particuliers. C’est pourquoi, sauf cas très exceptionnels, je dois tout de même être relié au réseau d’électricité et souscrire un contrat avec un fournisseur d’électricité.
+Je dois faire une demande de raccordement au gestionnaire de réseau ENEDIS pour être raccordé au réseau public afin de pouvoir injecter le surplus de ma production d’électricité et le vendre.
+Je contacte également ma mairie pour obtenir les autorisations nécessaires à la conformité de mon projet.
+Selon l’ADEME, l’autoconsommation présente un intérêt particulier dans les zones non interconnectées (ZNI) d’outre-mer, lorsque « les courbes de consommation (notamment en climatisation) coïncident avec celle d’une forte production photovoltaïque diurne ». Cet intérêt est moindre si je me situe dans une zone moins ensoleillée.
+L’autoconsommation est un marché en développement. Je me renseigne auprès d’organismes agréés par l’État tels que les espaces du réseau FAIRE pour connaître les évolutions concernant la réglementation et les aides financières.
+Réponses aux interrogations les plus fréquentes :
+Est-il plus intéressant financièrement de vendre toute son électricité ou d’autoconsommé ?
+Selon l’INC : « Pour que l’autoconsommation soit rentable, il faut que le profil de consommation du logement corresponde le plus possible à la production des panneaux. (…) Les retours d’expérience montrent que le taux d’autoconsommation, c’est-à-dire la part de la production consommée sur la production totale, oscille entre 20 et 40 %. (…) Ce n’est que si les habitants du logement adaptent leurs habitudes de consommation que le projet peut être intéressant. »
+Je veux autoconsommé, si je change d’avis, comment ça se passe ?
+Il est impossible de revenir en arrière d’où l’importance de bien étudier le projet en amont. Je m’engage le plus souvent pour 20 ans si je signe pour la vente totale de ma production ou du surplus si j’autoconsomme. La prime n’est reçue que dans ce cas.
+J’ai un litige avec mon acheteur d’énergie, comment procéder ?
+Comme en cas de problème avec votre fournisseur d’énergie, vous pouvez saisir le médiateur national de l’énergie 2 mois après lui avoir envoyer une réclamation écrite (courrier ou courrier) .
+
